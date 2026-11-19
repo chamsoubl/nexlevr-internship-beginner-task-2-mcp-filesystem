@@ -1,6 +1,6 @@
 # Nexlevr Internship – Beginner Task 2: MCP Filesystem Server Integration
 
-**Organization:** Nexlevr  
+**Organization:** [Nexlevr](https://github.com/Nexlevr)  
 **Internship Track:** Beginner  
 **Task:** 2 of 3 – MCP Server Integration  
 **Technology:** Model Context Protocol (MCP)  
@@ -9,7 +9,7 @@
 
 ## About the Internship
 
-This project is part of the Nexlevr internship program, which includes Beginner, Intermediate, and Advanced task tracks.
+This project is part of the [Nexlevr](https://github.com/Nexlevr) internship program, which includes Beginner, Intermediate, and Advanced task tracks.
 
 This repository documents my work on the second Beginner-level task, focusing on MCP filesystem integration, file operations, customer feedback analysis, and automated documentation.
 
@@ -99,6 +99,13 @@ nexlevr-internship-task-2-mcp-server/
 │
 ├── Documents/
 │   ├── Screenshots/
+│   │   ├── screenshot1.png
+│   │   ├── screenshot2.png
+│   │   ├── screenshot3.png
+│   │   ├── screenshot4.png
+│   │   ├── screenshot51.png
+│   │   └── screenshot52.png
+│   │
 │   ├── mcp_filesystem_demo_report.tex
 │   ├── mcp_filesystem_demo_report.pdf
 │   └── mcp_filesystem_demo.mp4
@@ -110,6 +117,14 @@ nexlevr-internship-task-2-mcp-server/
 └── README.md
 ```
 
+## Demonstration Video
+
+The recorded demonstration video is available in:
+
+`Documents/mcp_filesystem_demo.mp4`
+
+It demonstrates the MCP filesystem workflow and the execution of the assigned business task.
+
 ## Technologies and Tools
 
 - Model Context Protocol (MCP)
@@ -119,15 +134,7 @@ nexlevr-internship-task-2-mcp-server/
 - LaTeX
 - Git
 - GitHub
-- Git LFS (for large video file storage)
-
-## Demonstration Video
-
-The recorded demonstration video is available in:
-
-`Documents/mcp_filesystem_demo.mp4`
-
-It demonstrates the MCP filesystem workflow and the execution of the assigned business task.
+- Git LFS (Large File Storage)
 
 ## Conclusion
 
@@ -135,4 +142,4 @@ This task provided practical experience with the Model Context Protocol and file
 
 It demonstrated how MCP tools can help an AI assistant access project files, retrieve information, analyze customer feedback, and generate structured business documentation.
 
-**Nexlevr Internship – Beginner Track | Task 2 of 3**
+**[Nexlevr](https://github.com/Nexlevr) Internship – Beginner Track | Task 2 of 3**
